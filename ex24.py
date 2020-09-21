@@ -17,6 +17,7 @@ print ("---------------")
 five = 10 - 2 + 3 - 6
 print ("This should be five: %s" % five)
 
+#从这个地方你可以发现python中的函数可以一次性返回多个值
 def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 1000

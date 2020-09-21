@@ -1,4 +1,4 @@
-from sys import argv    #你可以认为 sys 是一个包， 这句代码的意思是从 sys 的包中引入 argv 功能模块。
+from sys import argv    #你可以认为sys 是一个包， 这句代码的意思是从 sys 的包中引入 argv 功能模块。
 
 script, first, second, third = argv
 
